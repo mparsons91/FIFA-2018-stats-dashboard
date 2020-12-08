@@ -9,4 +9,4 @@ Files included are:
 -The scripts to generate the graphs as '*.png' files
 -A script to output the data onto a dashboard '.pdf' file
 
-![](images/fifa_graphs.pdf)
+![Example Output](fifa_graphs.pdf)
